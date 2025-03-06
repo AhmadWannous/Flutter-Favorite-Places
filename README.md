@@ -33,3 +33,19 @@ HTTP – Making API calls if needed (e.g., fetching map data).
 📌 Hiking & Adventure Logs – Save scenic locations for future trips.
 
 This project demonstrates expertise in Flutter development, state management, local database handling, and Google Maps integration, making it an ideal app for location-based tracking and bookmarking. 🚀
+
+## 📸 App Screenshots
+
+<table>
+  <tr>
+    <td><b>Home</b></td>
+    <td><b>Add Place</b></td>
+    <td><b>Map</b></td>
+  </tr>
+  
+  <tr>
+    <td><img src="assets/screenshots/home.png" width="250"></td>
+    <td><img src="assets/screenshots/add place.png" width="250"></td>
+    <td><img src="assets/screenshots/map.png" width="250"></td>
+  </tr>
+</table>
